@@ -1,0 +1,41 @@
+[
+  {
+    "roll": "ABC123",
+    "name": "Test",
+    "room": "101",
+    "hostel": "A",
+    "mobile": "9876543210",
+    "day": "Monday",
+    "time": "Day",
+    "foodType": "veg",
+    "menuItem": "Paneer",
+    "bookingDate": "2026-03-16"
+  },
+  {
+    "roll": "ABC123",
+    "name": "Test3",
+    "room": "103",
+    "hostel": "C",
+    "mobile": "9876543212",
+    "day": "Tuesday",
+    "time": "Night",
+    "foodType": "veg",
+    "menuItem": "Paneer",
+    "bookingDate": "2026-03-17"
+  },
+  {
+    "name": "Arnnav panda",
+    "roll": "290",
+    "room": "C-402",
+    "hostel": "HR-1",
+    "mobile": "1234567890",
+    "day": "Wednesday",
+    "time": "Night",
+    "bookingDate": "2026-03-17",
+    "foodType": "nonveg",
+    "menuItem": "Chicken Curry",
+    "tokenDate": "17/3/2026, 7:56:17 pm",
+    "tokenId": "NIST-77439-1792",
+    "tokenLink": "http://localhost:8080/index.html?token=eyJuYW1lIjoiQXJubmF2IHBhbmRhIiwicm9sbCI6IjI5MCIsInJvb20iOiJDLTQwMiIsImhvc3RlbCI6IkhSLTEiLCJtb2JpbGUiOiIxMjM0NTY3ODkwIiwiZGF5IjoiV2VkbmVzZGF5IiwidGltZSI6Ik5pZ2h0IiwiYm9va2luZ0RhdGUiOiIyMDI2LTAzLTE3IiwiZm9vZFR5cGUiOiJub252ZWciLCJtZW51SXRlbSI6IkNoaWNrZW4gQ3VycnkiLCJ0b2tlbkRhdGUiOiIxNy8zLzIwMjYsIDc6NTY6MTcgcG0iLCJ0b2tlbklkIjoiTklTVC03NzQzOS0xNzkyIn0="
+  }
+]

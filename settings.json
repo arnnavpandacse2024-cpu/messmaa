@@ -1,0 +1,13 @@
+{
+  "isBookingOpen": false,
+  "tokenLink": "https://nist-university-admin.example.com",
+  "openMonday": false,
+  "openSaturday": false,
+  "specialSundayBreakfast": false,
+  "everydayStart": "18:00",
+  "everydayEnd": "21:30",
+  "saturdayStart": "13:30",
+  "saturdayEnd": "16:30",
+  "specialStart": "18:00",
+  "specialEnd": "21:30"
+}
